@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/codingblog",
+    "prod_uri": "mysql+pymysql://root:@localhost/codingblog",
+    "facebook_uri": "https://facebook.com",
+    "twitter_uri": "https://twitter.com",
+    "github_uri": "https://github.com",
+    "gmail-user": "vishakhak@gmail.com",
+    "gmail-pwd" : "password",
+    "blogname" : "Vish",
+    "loginimg" : "bootstrap-logo.svg",
+    "admin_user" : "admin",
+    "admin_pwd" : "admin123",
+    "upload_location" : "C:\\Users\\Admin\\PycharmProjects\\flask-tut\\static"
+  }
+}
